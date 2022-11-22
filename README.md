@@ -1,12 +1,12 @@
 # sneaker0.5
 Petite avancer
-Passage à react;/n
-Page d'accueil creer avec les MostPop;/n
-Barre de recherche dynamique, données en temps  reel;/n
-3 pages disponibles: products, classement, calendrier;/n
-bloquer actuellement sur la creation d'une route pour le calendrier : n'arrive pas a filtrer products afin de ne sortie que les resultats qui match exactement/n
+Passage à react
+Page d'accueil creer avec les MostPop
+Barre de recherche dynamique, données en temps  reel
+3 pages disponibles: products, classement, calendrier
+bloquer actuellement sur la creation d'une route pour le calendrier : n'arrive pas a filtrer products afin de ne sortie que les resultats qui match exactement
 
-prevu 0.75:
+prevu 0.75
 regler pb
 ajout de page/sneaker
 ajout du classement
